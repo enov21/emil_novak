@@ -1,0 +1,38 @@
+@charset "utf-8";
+/* CSS Document */
+p {
+	color:blueviolet;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	font-size: 16px;
+	line-height: 18px;
+	width: 600px;
+	background-color: lightyellow;
+	padding: 15px;
+}
+
+.novi_blok{
+	background-color: rgba(255, 220, 125, 0.25);
+	padding: 20px;
+	margin: 20px;
+	width: 55%;
+}
+h1,h2 {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color: darkslateblue;
+	
+}
+span {color:rgb(255,0,150);}
+body {
+	background-image: url("slike/cropping-primjer01.jpg")
+}
+a {
+	color: black;
+	background-color: white;
+	padding: 6px;
+	line-height: 40px;
+	border: 1px solid #BEBEBE;
+		
+}
+a:hover{
+	background-color: darkgray;
+}
